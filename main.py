@@ -1,0 +1,2 @@
+a = "ETL"
+print(a)
