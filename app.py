@@ -1,5 +1,5 @@
 import streamlit as st
-from pipeline-1-etl import pipeline
+from pipeline-1-etl import Pipeline
 
 st.title('Files Processing')
 
